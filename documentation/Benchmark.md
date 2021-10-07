@@ -2,7 +2,7 @@
 
 Our algorithm is validated against 1000 records and the results are presented as tables below. Close to 88% of records don't possess any signature matching with our identifier and  12% records possess one matching our filtering identifier. 124 records possess 135 identifier occurrences, where 3 records contain 2 identifier occurrences in one record, 2 records with 3 identifier occurrences in one record and 1 record with 5 identifier occurrences in one record.
 
-![benchmarkresults](img/BMresults.png)
+![benchmarkresults](/img/BMresults.png)
 
 
 `Note:`
