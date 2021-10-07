@@ -5,10 +5,10 @@ Signature remover is a NLP based solution which removes email signatures from th
 # Table of Content
 
 - [Introduction](documentation/Introduction.md)
-- ![Architecture](documentation/Architecture.md)
-- ![Configuration](documentation/Configuration.md)
-- ![Installation](documentation/Install.md)
-- ![Benchmark](documentation/Benchmark.md)
+- [Architecture](documentation/Architecture.md)
+- [Configuration](documentation/Configuration.md)
+- [Installation](documentation/Install.md)
+- [Benchmark](documentation/Benchmark.md)
 
 # Credits
 
